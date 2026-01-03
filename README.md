@@ -14,13 +14,7 @@ Hi, I’m Komal 👋<br>A CS student who loves coding, problem-solving, and lear
 # ⚡ Digital Pins:
 [![An image of @komalk25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/komalk25)](https://holopin.io/@komalk25)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=komal-k25&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=komal-k25&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=komal-k25&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 

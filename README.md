@@ -18,7 +18,7 @@ A CSE student passionate about Data Science, Machine Learning and Web Developmen
   
 Always learning, always building 🚀
 
-#🎓 Education
+# 🎓 Education
 ### B.Tech in Computer Science and Engineering
 *Symbiosis Institute of Technology, Pune*
 

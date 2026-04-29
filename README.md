@@ -10,8 +10,6 @@ A CSE student passionate about Data Science, Machine Learning and Web Developmen
 
 </div>
 
-🔹 Currently learning: ML, and Data Analysis
-
 🔹 Building projects and improving problem-solving skills
 
 🔹 Interested in AI, real-world applications, and tech innovation
